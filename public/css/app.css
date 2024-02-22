@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DrKabel-pvvd';
+    src: url('/fonts/DrKabel-pvvd.otf') format('opentype');
+}
+
+* {
+    font-family: 'DrKabel-pvvd', sans-serif;
+}
